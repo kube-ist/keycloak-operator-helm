@@ -35,4 +35,3 @@ jobs:
         env:
           CR_TOKEN: "${{ secrets.TOKEN }}"
           CR_PACKAGE_PATH: ""
-          
